@@ -3,6 +3,6 @@
 int main(){
    int a,b;
    std::cin>>a>>b;
-   std::cout<<"hello,world!"<<std::endl;
+   std::cout<<"hello,GitHub!"<<std::endl;
 
 }
